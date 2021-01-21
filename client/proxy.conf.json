@@ -1,0 +1,8 @@
+{
+    "/yoga/*": {
+        "target": "http://localhost:2400",
+        "secure": false,
+        "logLevel": "debug",
+        "changeOrigin": true
+    }
+}
